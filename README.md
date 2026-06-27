@@ -1,8 +1,6 @@
 <h1 align="center">Привет, я Дмитрий Кузнецов</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B4F72&center=true&vCenter=true&width=600&lines=Ручной+тестировщик+(QA+Engineer);Студент+Computer+Security+%7C+УлГУ;Победитель+хакатона+Т1+%F0%9F%8F%86;Автор+TimeTracker+%E2%80%94+30+пользователей+ежедневно" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Ручной+тестировщик+(QA+Engineer);Студент+Computer+Security+%7C+УлГУ;Победитель+хакатона+Т1+%F0%9F%8F%86;Автор+TimeTracker+%E2%80%94+30+пользователей+ежедневно&animation=typing&color=1B4F72&size=22&font=code&center=true&vCenter=true&width=700&height=50)](https://github.com/PaulLeMot)
 
 <p align="center">
   <a href="mailto:paullemot@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
