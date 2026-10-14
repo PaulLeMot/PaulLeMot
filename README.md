@@ -1,9 +1,16 @@
 <h1 align="center">Привет, я Дмитрий Кузнецов 👋</h1>
 
+
+<h1 align="center">Привет, я Дмитрий Кузнецов 👋</h1>
+
+<h3 align="center">Backend & Fullstack Developer</h3>
+
 <p align="center">
-  <a href="https://github.com/PaulLeMot">
-    <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Software+Developer+%7C+Python+%26+FastAPI;Fullstack+%7C+React+%26+Next.js;TimeTracker+%E2%80%94+30+%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+%D0%B5%D0%B6%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE;%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C+%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D0%B0+%D0%A21+%F0%9F%8F%86&amp;animation=typing&amp;color=1B4F72&amp;size=22&amp;font=code&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50" alt="Software Developer | Python, FastAPI, React, Next.js" />
-  </a>
+  Python · FastAPI · PostgreSQL · React · Next.js
+</p>
+
+<p align="center">
+  <sub>Разрабатываю веб-приложения от API до пользовательского интерфейса</sub>
 </p>
 
 <p align="center">
