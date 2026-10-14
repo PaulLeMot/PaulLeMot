@@ -1,8 +1,5 @@
 <h1 align="center">Привет, я Дмитрий Кузнецов 👋</h1>
 
-
-<h1 align="center">Привет, я Дмитрий Кузнецов 👋</h1>
-
 <h3 align="center">Backend & Fullstack Developer</h3>
 
 <p align="center">
